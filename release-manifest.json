@@ -1,16 +1,12 @@
 {
   "appName": "Trusted Accounting",
-  "version": "4.7.26",
-  "tag": "v4.7.26",
+  "version": "4.7.27",
+  "tag": "4.7.27",
+  "title": "4.7.27",
   "releaseDate": "2026-11-11",
-  "builtAt": "2026-11-11T04:53:56.400Z",
-  "sha256": "19cc091ea7e528f200381b02fb700112fc3b1edf054c958db90a0a7af67128ab",
-  "asarSha256": "19cc091ea7e528f200381b02fb700112fc3b1edf054c958db90a0a7af67128ab",
-  "sizeBytes": 12857762,
-  "asarDownloadUrl": "https://github.com/yashlakhtariya/trusted-accounting/releases/latest/download/app-update.asar",
-  "highlights": [
-    "Trusted Accounting v4.7.26 Official Cloud Update Package",
-    "SHA-256 Verified Atomic ASAR Bundle (12.26 MB)",
-    "100% Zero-Data-Loss Preservation of Local Data\\ and Backups\\ Company Vaults"
-  ]
+  "builtAt": "2026-11-11T15:45:02.915Z",
+  "sha256": "5b52276a45ef5a2031c7bf25c1f8f1693d44d40bbf5f5d71be6ede5c4a31e73d",
+  "asarSha256": "5b52276a45ef5a2031c7bf25c1f8f1693d44d40bbf5f5d71be6ede5c4a31e73d",
+  "sizeBytes": 13464380,
+  "asarDownloadUrl": "https://github.com/yashlakhtariya/trusted-accounting/releases/latest/download/app-update.asar"
 }
